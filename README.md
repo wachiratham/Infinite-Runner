@@ -1,1 +1,1 @@
-# Infinite-Rinner
+# Infinite-Runner
